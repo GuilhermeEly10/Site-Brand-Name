@@ -280,12 +280,12 @@ font-weight: 700;
 }
 .sucesso-chegagem{
     background-color: #2DC071;
-    padding: 5px;
+    padding: 8px 5px;
     border-radius: 100%;
 }
 .falha-chegagem{
     background-color:#BDBDBD;
-    padding: 5px;
+    padding: 8px 5px;
     border-radius: 100%;
 }
 /* SEÇÃO 7*/
