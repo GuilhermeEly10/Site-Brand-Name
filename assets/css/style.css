@@ -201,6 +201,10 @@ font-weight: 700;
     font-family: montserrat;
     font-style: bold;
     font-weight: 700;
+    position:absolute;
+    border-radius:5px;
+    top:10px;
+    left: 10px;
 }
 .popular-cursos{
     padding-bottom: 200px;
